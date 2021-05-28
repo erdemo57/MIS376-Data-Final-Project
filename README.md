@@ -1,6 +1,4 @@
 # MIS376-Data-Final-Project
-The Impact of the Covid-19 Outbreak on SMEs
-
 
 Knowledge Mapping Data Final Project
 
